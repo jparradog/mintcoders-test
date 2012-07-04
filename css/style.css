@@ -1,0 +1,20 @@
+
+
+/* ===== Primary Styles ========================================================
+   Author:
+   ========================================================================== */
+body {
+  position: relative;
+  padding-top: 90px;
+  background-color: #fff;
+  background-image: url(http://twitter.github.com/bootstrap/assets/img/grid-18px-masked.png);
+  background-repeat: repeat-x;
+  background-position: 0px;
+}
+.escondido{
+  display: none;
+}
+.invalid {
+border: 1px red solid;
+}
+
